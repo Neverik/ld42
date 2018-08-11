@@ -1,0 +1,14 @@
+{
+	"root": {
+		"university": 5,
+		"jobs": 10,
+		"files": {
+			"kool": 10,
+			"yay": 12
+		},
+		"private": {
+			"family": 90,
+			"DONT LOOK": 1
+		}
+	}
+}
